@@ -4,7 +4,7 @@ To do list app is application to management what you will do, and you can read a
 
 # Screenshot
 
-<img src="./screen/home.jpg" style="width: 29%"><img src="./screen/post.jpg" style="width: 29%"><img src="./screen/location.jpg" style="width: 29%">
+<img src="/screen/home.jpg" width="29%"><img src="/screen/post.jpg" width="29%"><img src="./screen/location.jpg" width="29%">
 
 # Installation & Setup
 - Installation
